@@ -1,5 +1,7 @@
 public class DogFactoryPatternExample
 {
+  // main method to get different types 
+  // of dogs using the factory pattern
   public static void main(String[] args)
   {
     // create a small dog
