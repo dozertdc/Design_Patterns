@@ -1,5 +1,6 @@
 class DogFactory
 {
+  // heart of dog factory pattern
   public static Dog getDog(String criteria)
   {
     if ( criteria.equals("small") )
