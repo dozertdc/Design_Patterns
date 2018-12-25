@@ -3,6 +3,7 @@ public class MsWindowsWidgetFactory{
   //create an MSWindow
   public Window createWindow(){
     MSWindow window = new MSWindow();
+    //return window
     return window;
   }
 }
